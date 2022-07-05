@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
 }
 
 h1 {
@@ -41,7 +42,7 @@ section {
     border-radius: 40px;
     color: white;
     font-size: 20px;
-    background-image: linear-gradient(orange #f8405f);
+    background-image: linear-gradient(orange #b2430f);
     font-weight: 500;
     margin-bottom: 20%;
 }
@@ -71,6 +72,7 @@ section {
     padding-left: 850px;
     padding-top: 100px;
     padding-bottom: 200px;
+
 
 }
 
@@ -106,18 +108,7 @@ section {
 
 .l-heading {
     font-size: 60px;
-}
 
-.black-box {
-    background-color: black;
-    color: white;
-    padding-bottom: 10%;
-    padding-top: 2%;
-    padding-left: 45%;
-}
-
-.grey-color {
-    color: gray;
 }
 
 .l-box {
@@ -130,7 +121,30 @@ section {
     padding-left: 18%;
 }
 
+
+
+.fresh {
+    text-align: center;
+}
+
 .last-line {
     color: 15px;
-    padding-left: 15%;
+
+    text-align: center;
+}
+
+.grey-color {
+    color: gray;
+}
+
+.black-box {
+    background-color: black;
+    color: white;
+    padding-bottom: 10%;
+    padding-top: 2%;
+}
+
+.main {
+    margin-left: 0px;
+
 }
