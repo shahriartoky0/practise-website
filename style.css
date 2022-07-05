@@ -59,7 +59,7 @@ section {
 }
 
 #about-me {
-    color: gray;
+    color: rgb(75, 73, 73);
     font-size: 40px;
     text-align: center;
 }
@@ -78,4 +78,18 @@ section {
     padding-top: 100px;
     padding-bottom: 200px;
 
+}
+
+#recepy {
+    color: rgb(75, 73, 73);
+    padding-left: 50%;
+    font-size: 40px;
+    ;
+}
+
+#recepy-text {
+    padding-left: 40%;
+    padding-right: 19%;
+    font-size: 17px;
+    text-align: center;
 }
