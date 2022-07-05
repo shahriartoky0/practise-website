@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-    font-size: 85px;
+    font-size: 50px;
 }
 
 .orange-color {
@@ -24,9 +24,19 @@ section {
     width: 80%;
 }
 
+.half-width-second {
+    width: 88%;
+}
+
+#contact-button {
+
+    margin-left: 20%;
+}
+
 .link-button {
     text-decoration: none;
     background-color: orange;
+    box-shadow: 10px 10px 30px orange;
     padding: 10px 20px;
     border-radius: 40px;
     color: white;
@@ -36,6 +46,35 @@ section {
     margin-bottom: 20%;
 }
 
-#first-para {
+#second-text {
+    font-size: 16px;
+    color: black;
+    padding-bottom: 50px;
+}
+
+.inner-text {
     font-size: 30px;
+    color: gray;
+}
+
+#about-me {
+    color: gray;
+    font-size: 40px;
+    text-align: center;
+}
+
+#contact-button {
+    text-align: center;
+
+
+}
+
+.second-part {
+    background-image: url(2nd-picture.png);
+    background-repeat: no-repeat;
+    padding-right: 200px;
+    padding-left: 850px;
+    padding-top: 100px;
+    padding-bottom: 200px;
+
 }
