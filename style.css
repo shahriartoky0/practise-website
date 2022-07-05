@@ -64,12 +64,6 @@ section {
     text-align: center;
 }
 
-#contact-button {
-    text-align: center;
-
-
-}
-
 .second-part {
     background-image: url(2nd-picture.png);
     background-repeat: no-repeat;
@@ -92,4 +86,51 @@ section {
     padding-right: 19%;
     font-size: 17px;
     text-align: center;
+}
+
+.half-width-box {
+    width: 50%;
+    box-shadow: 20px 20px 50px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 30px;
+}
+
+.half-width-box img {
+    width: 80%;
+}
+
+.l-heading {
+    font-size: 60px;
+}
+
+.black-box {
+    background-color: black;
+    color: white;
+    padding-bottom: 10%;
+    padding-top: 2%;
+    padding-left: 45%;
+}
+
+.grey-color {
+    color: gray;
+}
+
+.l-box {
+    padding: 5%;
+}
+
+.l-container {
+    box-shadow: 10px 10px 30px gray;
+    margin: 10%;
+    padding-left: 18%;
+}
+
+.last-line {
+    color: 15px;
+    padding-left: 15%;
 }
